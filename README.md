@@ -3,9 +3,9 @@ EDD Third Party and Blog Link
 
 Allows you to add post meta data in Easy Digital Downloads to indicate a third party product, whether the download is a WordPress plugin and also a link for more information.
 
-**This plugin requires [Easy Digital Downloads](http://wordpress.org/extend/plugins/easy-digital-downloads/ "Easy Digital Downloads"). It allows you to add post meta data in Easy Digital Downloads to indicate a third party product and also a link for more information. Also adds a checkbox to indicate if the download is available in the WordPress plugin repository. 
+**This plugin requires [Easy Digital Downloads](http://wordpress.org/extend/plugins/easy-digital-downloads/ "Easy Digital Downloads"). It allows you to add post meta data in Easy Digital Downloads to indicate a third party product as well as a link for more product information (such as a blog post or website). Finally, it adds a checkbox to indicate if the download is available in the WordPress plugin repository. 
 
-*Please Note: This plugin doesn't really do anything on it's own. This plugin is for advanced users and does nothing on the fron-end without writing your own custom code.*    
+*Please Note: This plugin doesn't really do anything on it's own. This plugin is for advanced users and does nothing on the front-end without writing your own custom code.*    
 
 **Here is what it does do:**
 
