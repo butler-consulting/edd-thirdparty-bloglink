@@ -12,8 +12,8 @@ Domain Path: /lang/
 
 /*
 	
-    * @author Thomas S. Butler (email : tom@opportunex.com)
-    * @copyright 2013-2014 All Rights Reserved.  Google Font Manager - A WordPress Plugin.
+    * @author Thomas S. Butler (email: tom@opportunex.com)
+    * @copyright 2014 All Rights Reserved.  Easy Digital Downloads - Third Party and Blog Link.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
